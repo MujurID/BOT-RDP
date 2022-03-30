@@ -9,12 +9,24 @@
 [![GitHub followers](https://img.shields.io/github/followers/tahaluindo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tahaluindo)
 [![GitHub stars](https://img.shields.io/github/stars/tahaluindo/Sofware-Tools.svg?style=social&label=Star)](https://github.com/koleksibot/Koleksibot-RDP)
 
+<details>
+<summary>Baca Selengkapnya.</summary>
+
 ------
 
 > ***⚠️ WARNING***  
 > Not for Cryptocurrency Mining.                                              
 > don't close the starter terminal (Connected to Github).
 
+## Speak RDP:
+<p align="canter">
+  
+- RAM: 6GB
+
+- OS: Windows 10
+ 
+ - Core:4
+</p>
 
 ### Tunnel Servers👻.
 
@@ -87,6 +99,10 @@ Use the te teamviewer to avoid the lag.
 ------
 
 </details>
+<details>
+<summary>Ubuntu Desktop</summary>
+
+------
 
 ### Ubuntu Desktop. 
 
@@ -107,3 +123,4 @@ Number | Code | Desktop | Time Install
 `13` | `lubuntu` | [Lubuntu](https://lubuntu.me) | 10-20 Minutes
 `14` | `studio` | [Ubuntu Studio](https://ubuntustudio.org) | 11-15 Minutes
 `15` | `kylin` | [Ubuntu Kylin](https://ubuntukylin.com) | 7- 9 Minutes
+</details>
