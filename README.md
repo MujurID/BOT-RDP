@@ -1,20 +1,13 @@
 ## RDP Windows, Ubuntu & MacOS
 
-
+## TahaluIndo X Rdp BOT
 
 [![OS - Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 [![OS - Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![OS - MAcOS](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=)](https://www.apple.com/macos/server/)
 
-[![GitHub followers](https://img.shields.io/github/followers/danwar8.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/danwar8)
-[![GitHub stars](https://img.shields.io/github/stars/danwar8/RDP.svg?style=social&label=Star)](https://github.com/danwar8/RDP)
-[![GitHub forks](https://img.shields.io/github/forks/danwar8/RDP.svg?style=social&label=Fork)](https://github.com/danwar8/RDP/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/danwar8/RDP.svg?style=social&label=Watch)](https://github.com/danwar8/RDP)
-
-[![GitHub issues](https://img.shields.io/github/issues/danwar8/RDP.svg)](https://github.com/danwar8/RDP/issues)
-[![GitHub issues](https://img.shields.io/github/issues-closed/danwar8/RDP.svg)](https://github.com/danwar8/RDP/issues)
-[![GitHub issues](https://img.shields.io/github/license/danwar8/RDP.svg
-)](https://github.com/danwar8/RDP)
+[![GitHub followers](https://img.shields.io/github/followers/tahaluindo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tahaluindo)
+[![GitHub stars](https://img.shields.io/github/stars/tahaluindo/Sofware-Tools.svg?style=social&label=Star)](https://github.com/koleksibot/Koleksibot-RDP)
 
 ------
 
@@ -23,7 +16,7 @@
 > don't close the starter terminal (Connected to Github).
 
 
-### Tunnel Servers.
+### Tunnel Servers👻.
 
 * us - United States (Ohio)
 * eu - Europe (Frankfurt)
@@ -32,6 +25,7 @@
 * sa - South America (Sao Paulo)
 * jp - Japan (Tokyo)
 * in - India (Mumbai)
+* id - Indonesia (Jakarta)
 
 ### How to run the project. 
 
