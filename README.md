@@ -6,6 +6,32 @@
 [![OS - Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![OS - MAcOS](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=)](https://www.apple.com/macos/server/)
 
+ 
++ RDP Windows,MacOS,Ubuntu,Vps Gratis 6 Jam / 12 Jam
+
++ Buat RDP Windows 10 Ram 7GB 2 Core Cpu Dengan Github:
+
++ Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
+
++ kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
+
++ Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
+
++ isi Nama: Masukan NGROK_AUTH_TOKEN
+
++ isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value
+
++ Tekan Add secret
+
++ Pergi Ke Action <Klik Select workflow< Pilih Yang Tersedia,Pencet Run workflow
+
++ Refresh Web/halaman dan masuk ke Har Pito> klik build
+
++ *Tunggu 1-5 menit*
+
++ Tekan Tombol panah menghadap ke bawah Yg bertuliskan (Connect RDP.) Untuk Mendapatkan IP, User, Password.
+
+
 [![GitHub followers](https://img.shields.io/github/followers/tahaluindo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tahaluindo)
 [![GitHub stars](https://img.shields.io/github/stars/tahaluindo/Sofware-Tools.svg?style=social&label=Star)](https://github.com/koleksibot/Koleksibot-RDP)
 
@@ -120,6 +146,7 @@ Thanks for [c9ffin](https://github.com/c9ffin/rdpwin) for chrome remote desktop 
 > ***⚠️ WARNING***  
 > Not for Cryptocurrency Mining.                                              
 > don't close the starter terminal (Connected to Github).
+> ```Peringatan jika Rdp close silahkan klik Action<Pilih List Tersedia<Klik build, Klik titik tiga klik run-rensjob dan jalan kan lagi Rdp nya```
 
 ## Speak RDP:
 <p align="canter">
