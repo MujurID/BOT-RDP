@@ -1,4 +1,6 @@
 ## RDP Windows, Ubuntu & MacOS
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/jyQvjj4/download.jpg" alt="download" border="0"></a>
+<a href="https://ibb.co/SNSp0cd"><img src="https://i.ibb.co/F6ptJX0/Screenshot-2022-08-23-15-00-05-79.png" alt="Screenshot-2022-08-23-15-00-05-79" border="0"></a>
 
 ## TahaluIndo X Rdp BOT
 
@@ -26,7 +28,16 @@ Untuk Kalian Yang Awam Atau Gak Ngerti Cara Installnya Cek Disini https://m.yout
 
 + Pergi Ke Action <Klik Select workflow< Pilih Yang Tersedia,Pencet Run workflow
 
-+ Refresh Web/halaman dan masuk ke Har Pito> klik build
+Tampilan Gambar kek gini
+<a href="https://github.com/tahaluindo/Koleksibot-RDP/actions"><img src="https://i.ibb.co/9qNpqHp/Screenshot-2022-08-23-16-34-11-73.png" alt="Screenshot-2022-08-23-16-34-11-73" border="0"></a>
+
++ Setelah Mode Desktop Maka Tampilan Seperti ini click gambar untuk ke Linknya
+<a href="https://github.com/tahaluindo/Koleksibot-RDP/actions/workflows/Windows-Ngrok.yml"><img src="https://i.ibb.co/2NwMPmF/Screenshot-2022-08-23-16-38-33-63.png" alt="Screenshot-2022-08-23-16-38-33-63" border="0"></a>
+
++ Refresh Web/halaman dan masuk ke pilihan mu> klik build
+
++ Tampilan runworklow isi **Ngrok Auth Token** dapatkan disini https://dashboard.ngrok.com/auth/your-authtoken
+<a href="https://github.com/tahaluindo/Koleksibot-RDP/actions/workflows/Windows-Ngrok.yml"><img src="https://i.ibb.co/TwHVRkh/Screenshot-2022-08-23-16-41-13-52.png" alt="Screenshot-2022-08-23-16-41-13-52" border="0"></a>
 
 + *Tunggu 1-5 menit*
 
